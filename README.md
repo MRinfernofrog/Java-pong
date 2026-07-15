@@ -13,3 +13,6 @@ the bot is very simple just follows the ball at a slower speed, once you or the 
 
 bugs:
 faulty collisions when changing settings cuz of a bug i didn't see
+
+
+<img width="2007" height="1238" alt="image" src="https://github.com/user-attachments/assets/c928d821-68a5-4be3-917d-76db71bfadd9" />
